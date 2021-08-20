@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+    display: none;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: black;
+}
+
+a:link, a:visited,  a:active {
+    color: #F6B21B;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: none;
+}
