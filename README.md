@@ -4,4 +4,6 @@ According to the FBI, cyber attacks through botnets have proliferated to the ext
 
 One way of detecting this type of situation is through the collection of all the pertinent information that allows us to perform optimized searches for the timely detection of malicious access through robot networks.
 
-![test](test.png)
+<div style="text-align:center">
+    <img src="test.png" />
+</div>
