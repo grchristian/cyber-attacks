@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Cyber Attacks
 show_downloads: [true]
+google_analytics: [G-46E18J92ZR]
